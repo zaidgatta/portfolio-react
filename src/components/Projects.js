@@ -8,12 +8,6 @@ import colorSharp2 from "../assests/img/color-sharp2.png";
 export const Projects = () => {
   const projects = [
     {
-      title: "The Crystal Consultancy.com",
-      description: "This site is created for the real estate to post the property on internet and people how find home can easily find it on the site",
-      imgUrl: 'https://thecrystalconsultancy.com/css/background%20picture-min.png',
-      linkurl: 'https://thecrystalconsultancy.com/'
-    },
-    {
       title: "The Royal Advisor.com",
       description: "This site is created for the real estate to post the property on internet and people how find home can easily find it on the site",
       imgUrl:'https://thecrystalconsultancy.com/css/background%20picture-min.png',
